@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying Software Engineering
 - 🌱 I’m currently learning JS, CSS, HTML and React
-- 🤔 How to reach me: [![Linkedin Badge]](https://www.linkedin.com/in/ana-dvorac-283216ab/)
+- 🤔 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AnaDvorac-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-dvorac-283216ab/) [![Facebook Badge](https://img.shields.io/badge/-AnaDvorac?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ana.dvorac) [![Instagram Badge](https://img.shields.io/badge/-AnaDvorac?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ana.dvorac/?hl=en)
 
 ### :fire: My Stats: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnDv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
