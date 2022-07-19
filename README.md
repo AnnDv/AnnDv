@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### About me: 
+### :woman_technologist: About me: 
 
 - 🔭 I’m currently studying Software Engineering
 - 🌱 I’m currently learning JS, CSS, HTML and React
