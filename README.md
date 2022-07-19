@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### My Stats: 
-https://github-readme-streak-stats.herokuapp.com/?user=AnnDv
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnnDv&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **AnnDv/AnnDv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
