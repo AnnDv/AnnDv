@@ -3,7 +3,7 @@
 ### :woman_technologist: About me: 
 
 - 🔭 Bachelor Degree in Software Engineering
-- 🌱 I’m currently learning JS, CSS, HTML and React
+- 🌱 I’m currently a Frot-End developer
 - 🤔 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AnaDvorac-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-dvorac-283216ab/) [![Facebook Badge](https://img.shields.io/badge/-AnaDvorac-darkblue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ana.dvorac) [![Instagram Badge](https://img.shields.io/badge/-AnaDvorac-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ana.dvorac/?hl=en)
 
 ### :fire: My Stats: 
